@@ -1,0 +1,2 @@
+this web site about school the pr.html is a home page and has navigation bar (home,fs1,fs2,year1,year2,year3 and page of images)
+i used functions in javascript file to run the navigation bar and return the position of specific part in the home page and make a function for animate the pictures dynmically
